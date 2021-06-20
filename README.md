@@ -1,5 +1,7 @@
 ## Easy script to test the ftx python client
 
+To install the dependencies run `pip install -r requirements.txt`
+
 To use this script we first need to copy .env.example file to the root folder of the project and rename it to .env.  
 We have to configure our FTX **api key** and **api secret** in **_.env_** file
 

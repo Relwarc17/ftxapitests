@@ -1,4 +1,4 @@
-## Easy script to test the ftx python client
+## Simple script to test the ftx python client
 
 To install the dependencies run `pip install -r requirements.txt`
 
